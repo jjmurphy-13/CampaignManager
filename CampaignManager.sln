@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampaignManager", "CampaignManager\CampaignManager.csproj", "{118994E7-5541-4444-B9B3-3C21070E1E8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampaignManager.Tests", "CampaignManager.Tests\CampaignManager.Tests.csproj", "{201FAACB-7E45-4D64-9620-49F661CCAAB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{118994E7-5541-4444-B9B3-3C21070E1E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118994E7-5541-4444-B9B3-3C21070E1E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118994E7-5541-4444-B9B3-3C21070E1E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118994E7-5541-4444-B9B3-3C21070E1E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{201FAACB-7E45-4D64-9620-49F661CCAAB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201FAACB-7E45-4D64-9620-49F661CCAAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201FAACB-7E45-4D64-9620-49F661CCAAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201FAACB-7E45-4D64-9620-49F661CCAAB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {611CE464-B7AE-4508-B60D-34BB786D32FA}
+	EndGlobalSection
+EndGlobal
